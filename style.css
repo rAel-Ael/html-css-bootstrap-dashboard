@@ -15,3 +15,14 @@ img {
     display: flex;
     justify-content: space-between;
 }
+
+
+  
+
+.stato-libro {
+    text-align: center;
+    width: 84px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
