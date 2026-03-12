@@ -15,7 +15,7 @@ img {
     display: flex;
     justify-content: space-between;
 }
-  
+
 
 .stato-libro {
     text-align: center;
@@ -24,3 +24,4 @@ img {
     color: white;
     border-radius: 10px;
 }
+
