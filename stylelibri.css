@@ -13,7 +13,9 @@ img {
 
 .top-list {
     display: flex;
+    possition: absolute;
     justify-content: space-between;
+
 }
 
 
@@ -25,10 +27,3 @@ img {
     border-radius: 10px;
 }
 
-.container-form {
-    padding: 80px;
-}
-
-.btn {
-    
-}
